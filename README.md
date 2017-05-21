@@ -1,7 +1,8 @@
 # awesome-investments
 
 A curated list of traditional and alternative investments resources.
-I will include only the resources that I use and recommend.
+
+**I will include only the resources that I use and recommend.**
 
 ## Books
 
